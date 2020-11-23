@@ -1,0 +1,185 @@
+INFO  11:54:08 Application started. Press Ctrl+C to shut down.
+INFO  11:54:08 Hosting environment: Development
+INFO  11:54:08 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  11:54:41 Authentication initiated
+INFO  11:54:43 Token Generation initiated
+INFO  12:09:34 Application started. Press Ctrl+C to shut down.
+INFO  12:09:34 Hosting environment: Development
+INFO  12:09:34 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  12:10:08 Authentication initiated
+INFO  12:10:09 Token Generation initiated
+INFO  09:43:47 Application started. Press Ctrl+C to shut down.
+INFO  09:43:47 Hosting environment: Development
+INFO  09:43:47 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:44:49 Authentication initiated
+INFO  09:44:50 Token Generation initiated
+INFO  09:45:02 Authentication initiated
+INFO  09:45:02 Token Generation initiated
+INFO  09:45:06 Authentication initiated
+INFO  09:45:06 Token Generation initiated
+INFO  09:45:15 Authentication initiated
+INFO  09:45:15 Token Generation initiated
+INFO  09:45:24 Authentication initiated
+INFO  09:47:33 Application started. Press Ctrl+C to shut down.
+INFO  09:47:33 Hosting environment: Development
+INFO  09:47:33 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:48:01 Authentication initiated
+INFO  09:48:01 Authentication failed
+INFO  10:17:22 Application started. Press Ctrl+C to shut down.
+INFO  10:17:22 Hosting environment: Development
+INFO  10:17:22 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  10:17:47 Authentication initiated
+INFO  10:17:48 Authentication failed
+INFO  10:18:14 Authentication initiated
+INFO  10:18:14 Token Generation initiated
+INFO  01:53:50 Application started. Press Ctrl+C to shut down.
+INFO  01:53:50 Hosting environment: Development
+INFO  01:53:50 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  01:59:27 Application started. Press Ctrl+C to shut down.
+INFO  01:59:27 Hosting environment: Development
+INFO  01:59:27 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  02:02:12 Application started. Press Ctrl+C to shut down.
+INFO  02:02:12 Hosting environment: Development
+INFO  02:02:12 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  02:25:44 Application started. Press Ctrl+C to shut down.
+INFO  02:25:44 Hosting environment: Development
+INFO  02:25:44 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  03:01:39 Application started. Press Ctrl+C to shut down.
+INFO  03:01:39 Hosting environment: Development
+INFO  03:01:39 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  03:02:09 Authentication initiated
+INFO  03:02:10 Token Generation initiated
+INFO  03:20:48 Application started. Press Ctrl+C to shut down.
+INFO  03:20:48 Hosting environment: Development
+INFO  03:20:48 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  03:21:18 Authentication initiated
+INFO  03:21:19 Token Generation initiated
+INFO  05:35:50 Authentication initiated
+INFO  05:35:50 Token Generation initiated
+INFO  05:38:21 Authentication initiated
+INFO  05:38:21 Token Generation initiated
+INFO  08:06:25 Application started. Press Ctrl+C to shut down.
+INFO  08:06:25 Application started. Press Ctrl+C to shut down.
+INFO  08:06:25 Hosting environment: Development
+INFO  08:06:25 Hosting environment: Development
+INFO  08:06:25 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  08:06:25 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  08:16:42 Application started. Press Ctrl+C to shut down.
+INFO  08:16:42 Application started. Press Ctrl+C to shut down.
+INFO  08:16:42 Hosting environment: Development
+INFO  08:16:42 Hosting environment: Development
+INFO  08:16:42 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  08:16:42 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  08:17:10 Authentication initiated
+INFO  08:17:11 Login credential matched
+INFO  08:17:11 Token Generation initiated
+INFO  08:34:22 Authentication initiated
+INFO  08:34:22 Login credential matched
+INFO  08:34:22 Token Generation initiated
+INFO  08:40:16 Authentication initiated
+INFO  08:40:16 Login credential matched
+INFO  08:40:16 Token Generation initiated
+INFO  09:01:56 Authentication initiated
+INFO  09:01:56 Authentication failed
+INFO  09:02:02 Authentication initiated
+INFO  09:02:02 Login credential matched
+INFO  09:02:02 Token Generation initiated
+INFO  09:54:45 Authentication initiated
+INFO  09:54:45 Login credential matched
+INFO  09:54:45 Token Generation initiated
+INFO  09:58:25 Authentication initiated
+INFO  09:58:25 Login credential matched
+INFO  09:58:25 Token Generation initiated
+INFO  10:34:31 Authentication initiated
+INFO  10:34:31 Login credential matched
+INFO  10:34:31 Token Generation initiated
+INFO  10:35:55 Authentication initiated
+INFO  10:35:55 Login credential matched
+INFO  10:35:55 Token Generation initiated
+INFO  10:36:07 Authentication initiated
+INFO  10:36:07 Login credential matched
+INFO  10:36:07 Token Generation initiated
+INFO  11:46:13 Authentication initiated
+INFO  11:46:13 Login credential matched
+INFO  11:46:13 Token Generation initiated
+INFO  11:49:35 Authentication initiated
+INFO  11:49:35 Login credential matched
+INFO  11:49:35 Token Generation initiated
+INFO  11:55:11 Authentication initiated
+INFO  11:55:11 Login credential matched
+INFO  11:55:11 Token Generation initiated
+INFO  11:59:00 Authentication initiated
+INFO  11:59:00 Login credential matched
+INFO  11:59:00 Token Generation initiated
+INFO  08:43:05 Authentication initiated
+INFO  08:43:05 Login credential matched
+INFO  08:43:05 Token Generation initiated
+INFO  08:49:07 Authentication initiated
+INFO  08:49:07 Login credential matched
+INFO  08:49:07 Token Generation initiated
+INFO  10:19:36 Authentication initiated
+INFO  10:19:36 Login credential matched
+INFO  10:19:36 Token Generation initiated
+INFO  10:21:19 Authentication initiated
+INFO  10:21:19 Login credential matched
+INFO  10:21:19 Token Generation initiated
+INFO  10:55:42 Authentication initiated
+INFO  10:55:42 Login credential matched
+INFO  10:55:42 Token Generation initiated
+INFO  11:03:19 Authentication initiated
+INFO  11:03:19 Login credential matched
+INFO  11:03:19 Token Generation initiated
+INFO  11:20:19 Authentication initiated
+INFO  11:20:19 Login credential matched
+INFO  11:20:19 Token Generation initiated
+INFO  11:23:08 Authentication initiated
+INFO  11:23:08 Login credential matched
+INFO  11:23:08 Token Generation initiated
+INFO  12:51:49 Application started. Press Ctrl+C to shut down.
+INFO  12:51:49 Application started. Press Ctrl+C to shut down.
+INFO  12:51:49 Hosting environment: Development
+INFO  12:51:49 Hosting environment: Development
+INFO  12:51:49 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  12:51:49 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  12:52:17 Authentication initiated
+INFO  12:52:18 Login credential matched
+INFO  12:52:18 Token Generation initiated
+INFO  12:53:05 Authentication initiated
+INFO  12:53:05 Login credential matched
+INFO  12:53:05 Token Generation initiated
+INFO  09:31:09 Application started. Press Ctrl+C to shut down.
+INFO  09:31:09 Application started. Press Ctrl+C to shut down.
+INFO  09:31:09 Hosting environment: Development
+INFO  09:31:09 Hosting environment: Development
+INFO  09:31:09 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:31:09 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:31:52 Authentication initiated
+INFO  09:31:53 Login credential matched
+INFO  09:31:53 Token Generation initiated
+INFO  09:33:48 Application started. Press Ctrl+C to shut down.
+INFO  09:33:48 Application started. Press Ctrl+C to shut down.
+INFO  09:33:48 Hosting environment: Development
+INFO  09:33:48 Hosting environment: Development
+INFO  09:33:48 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:33:48 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:34:28 Authentication initiated
+INFO  09:34:30 Login credential matched
+INFO  09:34:30 Token Generation initiated
+INFO  09:51:24 Application started. Press Ctrl+C to shut down.
+INFO  09:51:24 Application started. Press Ctrl+C to shut down.
+INFO  09:51:24 Hosting environment: Development
+INFO  09:51:24 Hosting environment: Development
+INFO  09:51:24 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:51:24 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:51:54 Authentication initiated
+INFO  09:51:55 Login credential matched
+INFO  09:51:55 Token Generation initiated
+INFO  09:55:50 Application started. Press Ctrl+C to shut down.
+INFO  09:55:50 Application started. Press Ctrl+C to shut down.
+INFO  09:55:50 Hosting environment: Development
+INFO  09:55:50 Hosting environment: Development
+INFO  09:55:50 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:55:50 Content root path: C:\Users\deepa\Desktop\New folder\AuthService\AuthService
+INFO  09:56:30 Authentication initiated
+INFO  09:56:31 Login credential matched
+INFO  09:56:31 Token Generation initiated
