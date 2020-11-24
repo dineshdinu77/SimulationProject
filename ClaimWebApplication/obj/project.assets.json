@@ -6969,11 +6969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimWebApplication\\ClaimWebApplication.csproj",
+      "projectUniqueName": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimWebApplication\\ClaimWebApplication.csproj",
       "projectName": "ClaimWebApplication",
-      "projectPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimWebApplication\\ClaimWebApplication.csproj",
+      "projectPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimWebApplication\\ClaimWebApplication.csproj",
       "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimWebApplication\\obj\\",
+      "outputPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",

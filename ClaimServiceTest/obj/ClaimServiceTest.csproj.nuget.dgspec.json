@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepa\\Desktop\\New folder\\ClaimServiceTest\\ClaimServiceTest.csproj": {}
+    "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimServiceTest\\ClaimServiceTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepa\\Desktop\\New folder\\ClaimServiceTest\\ClaimServiceTest.csproj": {
+    "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimServiceTest\\ClaimServiceTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimServiceTest\\ClaimServiceTest.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimServiceTest\\ClaimServiceTest.csproj",
         "projectName": "ClaimServiceTest",
-        "projectPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimServiceTest\\ClaimServiceTest.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimServiceTest\\ClaimServiceTest.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimServiceTest\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimServiceTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\deepa\\Desktop\\New folder\\ClaimService\\ClaimService.csproj": {
-                "projectPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimService\\ClaimService.csproj"
+              "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimService\\ClaimService.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimService\\ClaimService.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\deepa\\Desktop\\New folder\\ClaimService\\ClaimService.csproj": {
+    "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimService\\ClaimService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimService\\ClaimService.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimService\\ClaimService.csproj",
         "projectName": "ClaimService",
-        "projectPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimService\\ClaimService.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimService\\ClaimService.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimService\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",

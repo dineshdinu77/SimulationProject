@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj": {}
+    "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj": {
+    "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj",
         "projectName": "ClaimAuthServiceTest",
-        "projectPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthServiceTest\\ClaimAuthServiceTest.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthServiceTest\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthServiceTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthService\\ClaimAuthService.csproj": {
-                "projectPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthService\\ClaimAuthService.csproj"
+              "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthService\\ClaimAuthService.csproj": {
+                "projectPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthService\\ClaimAuthService.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthService\\ClaimAuthService.csproj": {
+    "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthService\\ClaimAuthService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthService\\ClaimAuthService.csproj",
+        "projectUniqueName": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthService\\ClaimAuthService.csproj",
         "projectName": "ClaimAuthService",
-        "projectPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthService\\ClaimAuthService.csproj",
+        "projectPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthService\\ClaimAuthService.csproj",
         "packagesPath": "C:\\Users\\deepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deepa\\Desktop\\New folder\\ClaimAuthService\\obj\\",
+        "outputPath": "C:\\Users\\deepa\\Desktop\\SimulationProject\\ClaimAuthService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\deepa\\AppData\\Roaming\\NuGet\\NuGet.Config",

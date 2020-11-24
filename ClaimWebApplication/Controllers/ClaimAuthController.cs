@@ -20,7 +20,7 @@ namespace ClaimWebApplication.Controllers
             return View();
         }
         [HttpPost]
-
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> GetById(Claim c)
         {
             if (HttpContext.Session.GetString("token") == null)
